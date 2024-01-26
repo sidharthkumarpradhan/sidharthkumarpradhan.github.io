@@ -1,8 +1,8 @@
 # _config.yml
 
-title: "Sidharth Kumar Pradhan - MLOps Engineer"
+title: "Sidharth Kumar Pradhan"
 logo: /assets/images/profile-pic.png
-description: "Accomplished MLOps professional with a passion for innovation and impact."
+description: "Accomplished MLOps and Machine Learning professional with a passion for innovation and impact."
 url: "https://github.com/sidharthkumarpradhan" # replace with your GitHub Pages URL
 permalink: "/:title/"
 theme: jekyll-theme-minimal
