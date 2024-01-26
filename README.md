@@ -2,7 +2,9 @@
 
 ## MLOps/ML Engineer
 
+<p align="justify">
 Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years of experience in the development and productionization of machine learning, deep learning, and generative AI solutions. Committed to innovation and impactful contributions in the AI field.
+</p>
 
 ### Education
 
@@ -118,7 +120,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
   - **Conclusion:**
     - The GAN model successfully generated realistic and diverse facial images.
 
-### 5. [Time Series Forecasting with Long Short-Term Memory (LSTM)](https://github.com/sidharthkumarpradhan/time-series-forecasting-lstm)
+### 5. [Time Series Forecasting with Long Short-Term Memory (LSTM)](https://github.com/sidharthkumarpradhan/                        time-series-forecasting-lstm)
 
 - **Tools Used:** PyTorch, TensorFlow
 - **Description:**
