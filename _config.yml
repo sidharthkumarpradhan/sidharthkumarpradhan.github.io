@@ -3,10 +3,8 @@
 title: "Sidharth Kumar Pradhan - MLOps Engineer"
 logo: /assets/images/profile-pic.png
 description: "Accomplished MLOps professional with a passion for innovation and impact."
-baseurl: ""
 url: "https://github.com/sidharthkumarpradhan" # replace with your GitHub Pages URL
 permalink: "/:title/"
-
 theme: jekyll-theme-minimal
 
 author:
