@@ -1,6 +1,4 @@
-# Sidharth Kumar Pradhan
-
-## MLOps/ML Engineer
+# MLOps/ML Engineer
 
 <p align="justify">
 Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years of experience in the development and productionization of machine learning, deep learning, and generative AI solutions. Committed to innovation and impactful contributions in the AI field.
@@ -92,7 +90,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
   - **Conclusion:**
     - The NLP model provided accurate sentiment analysis, enhancing text data understanding.
 
-### 3. [Recommender System using Collaborative Filtering](https://github.com/sidharthkumarpradhan/recommender-system)
+### 3. [Recommender System using Collaborative Filtering](https://github.com/sidharthkumarpradhan/Recommender-System-using-Collaborative-Filtering)
 
 - **Tools Used:** Surprise, scikit-learn
 - **Description:**
@@ -106,7 +104,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
   - **Conclusion:**
     - The recommender system provided personalized suggestions, improving user experience.
 
-### 4. [Generative Adversarial Network (GAN) for Image Synthesis](https://github.com/sidharthkumarpradhan/gan-image-synthesis)
+### 4. [Generative Adversarial Network (GAN) for Image Synthesis](https://github.com/sidharthkumarpradhan/Generative-Adversarial-Network-GAN-for-Image-Synthesis)
 
 - **Tools Used:** TensorFlow, Keras
 - **Description:**
@@ -120,7 +118,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
   - **Conclusion:**
     - The GAN model successfully generated realistic and diverse facial images.
 
-### 5. [Time Series Forecasting with Long Short-Term Memory (LSTM)](https://github.com/sidharthkumarpradhan/                        time-series-forecasting-lstm)
+### 5. [Time Series Forecasting with Long Short-Term Memory (LSTM)](https://github.com/sidharthkumarpradhan/Time-Series-Forecasting-with-Long-Short-Term-Memory-LSTM)
 
 - **Tools Used:** PyTorch, TensorFlow
 - **Description:**
