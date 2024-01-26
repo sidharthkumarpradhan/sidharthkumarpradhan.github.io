@@ -64,7 +64,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
 ## Machine Learning Projects
 
 
-### 1. [Image Classification with Convolutional Neural Networks (CNN)](https://github.com/sidharthkumarpradhan/image-classification-cnn)
+### 1. [Image Classification with Convolutional Neural Networks (CNN)](https://github.com/sidharthkumarpradhan/Image-Classification-with-Convolutional-Neural-Networks-CNN)
 
 - **Tools Used:** TensorFlow, Keras
 - **Description:**
@@ -78,7 +78,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
   - **Conclusion:**
     - The CNN model achieved high accuracy in image classification, demonstrating its effectiveness.
 
-### 2. [Natural Language Processing (NLP) - Sentiment Analysis](https://github.com/sidharthkumarpradhan/sentiment-analysis-nlp)
+### 2. [Natural Language Processing (NLP) - Sentiment Analysis](https://github.com/sidharthkumarpradhan/Natural-Language-Processing-NLP--Sentiment-Analysis)
 
 - **Tools Used:** PyTorch, NLTK
 - **Description:**
@@ -134,7 +134,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
   - **Conclusion:**
     - The LSTM model provided accurate time series forecasting, valuable for various applications.
 
-### 6. [Consumer Finances in USA](https://github.com/sidharthkumarpradhan/consumer-finances-in-usa)
+### 6. [Consumer Finances in USA](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/6-consumer-finances%20in-usa)
 
 - **Description:**
   - Implemented a machine learning model to analyze and predict consumer spending patterns in the USA.
@@ -147,7 +147,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
 - **Conclusion:**
   - The model accurately predicted consumer spending patterns, aiding financial planning and decision-making.
 
-### 7. [DS Admissions in WQU](https://github.com/sidharthkumarpradhan/ds-admissions-in-wqu)
+### 7. [DS Admissions in WQU](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/7-ds-admissions-in-wqu)
 
 - **Description:**
   - Created a predictive model for assessing admission probabilities based on various factors in a Data Science program.
@@ -160,7 +160,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
 - **Conclusion:**
   - The model provided valuable insights into admission criteria, aiding in the selection process.
 
-### 8. [Volatility Forecasting in India](https://github.com/sidharthkumarpradhan/volatility-forecasting-in-india)
+### 8. [Volatility Forecasting in India](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/8-volatility-forecasting-in-india)
 
 - **Description:**
   - Implemented time series analysis to forecast market volatility in the Indian financial market.
@@ -173,7 +173,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
 - **Conclusion:**
   - The forecasting model contributed to informed investment decisions in dynamic market conditions.
 
-### 9. [Housing in Mexico - 015 Assignment](https://github.com/sidharthkumarpradhan/housing-in-mexico-015-assignment)
+### 9. [Housing in Mexico - 015 Assignment](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/1-housing-in-mexico-015-assignment)
 
 - **Description:**
   - Analyzed and predicted housing prices in Mexico using machine learning models.
@@ -186,7 +186,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
 - **Conclusion:**
   - The predictive model provided insights for real estate investment strategies in the Mexican market.
 
-### 10. [Housing in Buenos Aires](https://github.com/sidharthkumarpradhan/housing-in-buenos-aires)
+### 10. [Housing in Buenos Aires](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/2-housing-in-buenos-aires)
 
 - **Description:**
   - Developed a machine learning model to analyze and predict housing prices in Buenos Aires.
@@ -199,7 +199,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
 - **Conclusion:**
   - The model contributed to informed decision-making in the dynamic Buenos Aires real estate market.
 
-### 11. [Air Quality in Nairobi](https://github.com/sidharthkumarpradhan/air-quality-in-nairobi)
+### 11. [Air Quality in Nairobi](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/3-air-quality-in-nairobi)
 
 - **Description:**
   - Implemented a machine learning model to predict air quality in Nairobi based on various environmental factors.
@@ -212,7 +212,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
 - **Conclusion:**
   - The model facilitated proactive measures for managing air quality in Nairobi.
 
-### 12. [Earthquake Damage in Nepal](https://github.com/sidharthkumarpradhan/earthquake-damage-in-nepal)
+### 12. [Earthquake Damage in Nepal](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/4-earthquake-damage-in-nepal)
 
 - **Description:**
   - Developed a machine learning model to assess and predict earthquake damage in Nepal.
@@ -225,7 +225,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
 - **Conclusion:**
   - The model provided valuable insights for earthquake preparedness and risk assessment in Nepal.
 
-### 13. [Bankruptcy in Poland](https://github.com/sidharthkumarpradhan/bankruptcy-in-poland)
+### 13. [Bankruptcy in Poland](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/5-bankruptcy-in-poland)
 
 - **Description:**
   - Analyzed and predicted bankruptcy risk for companies in Poland using machine learning.
