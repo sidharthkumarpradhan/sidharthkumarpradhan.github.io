@@ -1,7 +1,3 @@
----
-layout: home
----
-
 # Sidharth Kumar Pradhan
 
 ## MLOps Engineer | Hyderabad, India
@@ -59,11 +55,6 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
 - **Version Control:** Git, GitLab, SVN
 - **Operating Systems:** Ubuntu, Windows Server 2019, RedHat Linux
 
----
-layout: page
-title: Projects
-permalink: /projects/
----
 
 # [Projects](https://github.com/sidharthkumarpradhan)
 
