@@ -1,0 +1,26 @@
+# _config.yml
+
+title: "Sidharth Kumar Pradhan - MLOps Engineer"
+logo: /assets/images/profile-pic.png
+description: "Accomplished MLOps professional with a passion for innovation and impact."
+baseurl: ""
+url: "https://github.com/sidharthkumarpradhan" # replace with your GitHub Pages URL
+permalink: "/:title/"
+
+theme: jekyll-theme-minimal
+
+author:
+  name: Sidharth Kumar Pradhan
+  bio: "Accomplished MLOps professional with 4+ years of experience. Committed to democratizing the AI field and revolutionizing its impact."
+  location: India
+
+social:
+  - title: "GitHub"
+    url: "https://github.com/sidharthkumarpradhan"
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/sidharthkumarpradhan"
+  - title: "Website"
+    url: "www.sidharthkumarpradhan.github.io"
+  # Add more social links as needed
+
+email: "edu.sidharth@gmail.com"
