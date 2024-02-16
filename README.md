@@ -4,14 +4,6 @@
 Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years of experience in the development and productionization of machine learning, deep learning, and generative AI solutions. Committed to innovation and impactful contributions in the AI field.
 </p>
 
-### Education
-
-- **M.Tech: Mechanical Engineering (2019)**
-  - Biju Patnaik University of Technology, Odisha, India
-
-- **B.Tech: Mechanical Engineering (2016)**
-  - Centurion University of Technology and Management, Odisha, India
-
 ### Work Experience
 
 #### Senior ML/MLOps Consultant (10/2023 - Present)
@@ -54,6 +46,14 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years 
 - **Cloud Platforms:** AWS, Azure, GCP
 - **Version Control:** Git, GitLab, SVN
 - **Operating Systems:** Ubuntu, Windows Server 2019, RedHat Linux
+
+### Education
+
+- **M.Tech: Mechanical Engineering (2019)**
+  - Biju Patnaik University of Technology, Odisha, India
+
+- **B.Tech: Mechanical Engineering (2016)**
+  - Centurion University of Technology and Management, Odisha, India
 
 
 # [Projects](https://github.com/sidharthkumarpradhan)
