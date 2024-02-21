@@ -1,7 +1,7 @@
 # MLOps/ML Engineer
 
 <p align="justify">
-Welcome to my portfolio! I am a seasoned MLOps professional with over 4.5 years of experience in the development and productionization of machine learning, deep learning, and generative AI solutions. Committed to innovation and impactful contributions in the AI field.
+Welcome to my portfolio! I am a seasoned MLOps professional with over 5 years of experience in the development and productionization of machine learning, deep learning, and generative AI solutions. Committed to innovation and impactful contributions in the AI field.
 </p>
 
 ### Work Experience
