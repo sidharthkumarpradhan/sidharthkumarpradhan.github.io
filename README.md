@@ -238,7 +238,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 5 years of
 
 ## Conclusion
 
-These machine learning projects showcase a diverse range of applications and challenges. The solutions implemented demonstrate the ability to address complex problems and provide valuable insights. For source code and more details, please visit the [GitHub Repository](https://github.com/sidharthkumarpradhan).
+These machine learning projects showcase a diverse range of applications and challenges. The solutions implemented demonstrate the ability to address complex problems and provide valuable insights. For source code and more details, please visit the [GitHub Repository](https://github.com/sidharthkumarpradhan)
 
 ### Let's Connect
 
