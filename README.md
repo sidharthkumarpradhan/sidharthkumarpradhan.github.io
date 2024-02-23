@@ -171,7 +171,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 5 years of
 - **Conclusion:**
   - The forecasting model contributed to informed investment decisions in dynamic market conditions.
 
-### 9. [Housing in Mexico - 015 Assignment](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/1-housing-in-mexico-015-assignment)
+### 9. [Housing Price in Mexico](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/1-housing-in-mexico-015-assignment)
 
 - **Description:**
   - Analyzed and predicted housing prices in Mexico using machine learning models.
@@ -184,7 +184,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 5 years of
 - **Conclusion:**
   - The predictive model provided insights for real estate investment strategies in the Mexican market.
 
-### 10. [Housing in Buenos Aires](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/2-housing-in-buenos-aires)
+### 10. [Housing Price in Buenos Aires](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/2-housing-in-buenos-aires)
 
 - **Description:**
   - Developed a machine learning model to analyze and predict housing prices in Buenos Aires.
