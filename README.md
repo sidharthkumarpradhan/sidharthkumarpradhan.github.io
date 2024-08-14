@@ -7,33 +7,33 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 5 years of
 ### Work Experience
 
 #### Senior ML/MLOps Engineer (06/2024 - Present)
-- **Company:** EPAM Systems Inc., Hyderabad, India
+- **Company:** *EPAM Systems Inc., Hyderabad, India*
   - Leading the team to design and develop Cloud agnostic ML Pipeline and deploy Deep Learning, LLMs Models.
   - Built end-to-end ML pipeline for building and deploying Vision OCR Model with Augmented Reality capabilities using Diagflow NLP, Cloud Function, Big Query, Vertex AI, and ARCore. 
   - Achieved the Vision OCR model with Augmented Reality overlay for solving customer issues Interactively, resulting 60% time saving and reducing 100 hours of monthly manual work.
 
 #### Senior ML/MLOps Consultant (10/2023 - 05/2024)
-- **Company:** Firstsource, Hyderabad, India
+- **Company:** *Firstsource, Hyderabad, India*
   - Leading the design and deployment of cutting-edge ML systems on multi-cloud platforms.
   - Showcasing expertise in innovative solutions and building robust ML pipelines.
   - Utilizing Big Data technologies like Pyspark, BigQuery, and Snowflake for actionable insights.
 
 #### Senior MLOps Engineer (12/2021 - 10/2023)
-- **Company:** Kroll, Hyderabad, India
+- **Company:** *Kroll, Hyderabad, India*
   - Designed and executed end-to-end MLOps pipeline, accelerating project delivery by 40%.
   - Optimized ML pipelines, reducing model training time by 50%.
   - Implemented MLOps on multi-cloud and Kubernetes platforms, achieving 70% faster time-to-market.
   - Introduced automated model monitoring and alerting system, reducing model errors by 30%.
 
 #### DevOps Engineer (05/2021 - 11/2021)
-- **Company:** OSI Digital, Hyderabad, India
+- **Company:** *OSI Digital, Hyderabad, India*
   - Customized solutions, reducing production delay by 70% and ensuring 95% on-time delivery.
   - Designed and maintained cutting-edge MLOps infrastructure using Azure ML Services.
   - Strengthened real-time monitoring and alerting systems, improving overall data reliability and accuracy.
   - Implemented automated deployment pipelines, resulting in a 30% reduction in deployment errors.
 
 #### System Administrator (09/2019 - 04/2021)
-- **Company:** PCS Global, Kolkata, India
+- **Company:** *PCS Global, Kolkata, India*
   - Managed, troubleshot, and updated hardware and software assets, resulting in a 40% reduction in system downtime.
   - Implemented preventive measures, ensuring 99% system availability.
   - Automated patching and configuration processes, slashing deployment time by 50%.
