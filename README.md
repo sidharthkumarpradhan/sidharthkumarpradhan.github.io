@@ -6,7 +6,13 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 5 years of
 
 ### Work Experience
 
-#### Senior ML/MLOps Consultant (10/2023 - Present)
+#### Senior ML/MLOps Engineer (06/2024 - Present)
+- **Company:** EPAM Systems Inc., Hyderabad, India
+  - Leading the team to design and develop Cloud agnostic ML Pipeline and deploy Deep Learning, LLMs Models.
+  - Built end-to-end ML pipeline for building and deploying Vision OCR Model with Augmented Reality capabilities using Diagflow NLP, Cloud Function, Big Query, Vertex AI, and ARCore. 
+  - Achieved the Vision OCR model with Augmented Reality overlay for solving customer issues Interactively, resulting 60% time saving and reducing 100 hours of monthly manual work.
+
+#### Senior ML/MLOps Consultant (10/2023 - 05/2024)
 - **Company:** Firstsource, Hyderabad, India
   - Leading the design and deployment of cutting-edge ML systems on multi-cloud platforms.
   - Showcasing expertise in innovative solutions and building robust ML pipelines.
@@ -36,16 +42,16 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 5 years of
 ### Skills
 
 - **Machine Learning:** MLflow, Kubeflow, TensorFlow, PyTorch, PySpark, H2O, Azure ML, AutoML, AWS Sagemaker, OpenCV, Keras, Mlflow
-- **Data Engineering:** DataOps, ETL, Dagster, Airflow, Spark, Hadoop, Databricks, Data Warehouse
-- **DevOps:** Kubernetes, Docker, Ansible, Terraform, Jenkins, CI/CD, Azure DevOps, AWS CodePipeline, Bash Scripting, PowerShell
-- **Databases:** SQL, MS-SQL, MySQL, PostgreSQL, Cassandra, MongoDB
+- **Data Engineering:** DataOps, ETL, Dagster, Airflow, Spark, Hadoop, Databricks, Data Factory, Synapse, Cosmos DB, Databricks,Dagster, Alteryx
+- **DevOps:** Kubernetes, Docker, Ansible, Terraform, Jenkins, CI/CD, Azure DevOps, AWS CodePipeline, Bash Scripting, PowerShell, GitOps, GCP Cloud Build
+- **Databases:** SQL, MS-SQL, MySQL, PostgreSQL, Cassandra, MongoDB, BigQuery, Snowflake, Data
 - **Programming Languages:** Python, C++, R, Java, HTML, CSS, JavaScript, YAML, JSON
-- **ML Models & Algorithms:** KNN, CNN, ANN, RNN, Linear Regression, Logistic Regression, Decision Trees, KMeans, DBScan, Random        Forests, Naive Bayes, Gradient Boosting, SVM, NLP, Langchain, LLaMA, Mistral
+- **ML Models & Algorithms:** KNN, CNN, ANN, RNN, Linear Regression, Logistic Regression, Decision Trees, KMeans, DBScan, Random Forests, Naive Bayes, Gradient Boosting, SVM, NLP, Langchain, LLaMA, Mistral
 - **Deep Learning Frameworks:** TensorFlow, Keras, PyTorch, OpenCV
 - **Data Analysis & Visualization:** Numpy, Pandas, Scipy, Matplotlib, Seaborn, Plotly, Tableau, Power BI
-- **Cloud Platforms:** AWS, Azure, GCP
-- **Version Control:** Git, GitLab, SVN
-- **Operating Systems:** Ubuntu, Windows Server 2019, RedHat Linux
+- **Cloud Platforms:** AWS, Azure, GCP, IBM Cloud, Digital Ocean, Linode, Oracle Cloud, Heroku
+- **Version Control:** Github, GitLab, SVN
+- **Operating Systems:** Ubuntu, Windows Server 2019, RedHat Linux, Fedora, Open Suse, Debian, CentOs
 
 ### Education
 
@@ -245,4 +251,3 @@ These machine learning projects showcase a diverse range of applications and cha
 - [GitHub](https://github.com/sidharthkumarpradhan)
 - [LinkedIn](https://www.linkedin.com/in/sidharthkumarpradhan)
 - Email: edu.sidharth@gmail.com
-
