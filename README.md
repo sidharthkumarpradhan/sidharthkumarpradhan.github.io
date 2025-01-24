@@ -62,6 +62,12 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 5 years of
 
 ### Education
 
+- **Dual MS: MS In Business Analytics & MS In Finance**
+  - Fairfield University, Connecticut, United State of America
+    
+- **Post Graduate Degree: Business & Data Analytics**
+  - Indian Institute of Management, Udaipur, India
+    
 - **M.Tech: Mechanical Engineering (2019)**
   - Biju Patnaik University of Technology, Odisha, India
 
