@@ -1,7 +1,7 @@
 # MLOps/ML Engineer
 
 <p align="justify">
-Welcome to my portfolio! I am a seasoned MLOps professional with over 5 years of experience in the development and productionization of machine learning, deep learning, and generative AI solutions. Committed to innovation and impactful contributions in the AI field.
+Welcome to my portfolio! I am a seasoned MLOps professional with nearly 6 years of experience in the development and productionization of machine learning, deep learning, and generative AI solutions. Committed to innovation and impactful contributions in the AI field.
 </p>
 
 ### Work Experience
@@ -62,10 +62,10 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 5 years of
 
 ### Education
 
-- **Dual MS: MS In Business Analytics & MS In Finance**
+- **Dual MS: MS In Business Analytics & MS In Finance (2025 - 2027)**
   - Fairfield University, Connecticut, United State of America
     
-- **Post Graduate Degree: Business & Data Analytics**
+- **Post Graduate Degree: Business & Data Analytics (2025)**
   - Indian Institute of Management, Udaipur, India
     
 - **M.Tech: Mechanical Engineering (2019)**
