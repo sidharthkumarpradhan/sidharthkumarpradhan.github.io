@@ -6,7 +6,14 @@ Welcome to my portfolio! I am a seasoned MLOps professional with over 5 years of
 
 ### Work Experience
 
-#### Senior ML/MLOps Engineer (06/2024 - Present)
+#### Senior ML/MLOps Consultant (10/2024 - 01/2025)
+- **Company:** *Accenture Baltics, Vilnius, Lithuania*
+  - Designed and developed GenAI applications leveraging the RAG (Retrieval-Augmented Generation) framework.
+  - Specialized in building causational analysis models using OpenAI GPT and vector databases.
+  - Architected DevOps pipelines, incorporating best practices to optimize application development and deployment.
+  - Successfully delivered multiple client and internal projects within a short timeframe, earning recognition and shoutouts for impactful contributions.
+
+#### Senior ML/MLOps Engineer (06/2024 - 10/2024)
 - **Company:** *EPAM Systems Inc., Hyderabad, India*
   - Leading the team to design and develop Cloud agnostic ML Pipeline and deploy Deep Learning, LLMs Models.
   - Built end-to-end ML pipeline for building and deploying Vision OCR Model with Augmented Reality capabilities using Diagflow NLP, Cloud Function, Big Query, Vertex AI, and ARCore. 
