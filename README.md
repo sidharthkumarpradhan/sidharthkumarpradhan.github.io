@@ -7,7 +7,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with nearly 6 years 
 ### Work Experience
 
 #### Senior ML/MLOps Consultant (10/2024 - 01/2025)
-- **Company:** *Accenture Baltics, Vilnius, Lithuania*
+- **Company:** *Accenture Baltics, Remote*
   - Designed and developed GenAI applications leveraging the RAG (Retrieval-Augmented Generation) framework.
   - Specialized in building causational analysis models using OpenAI GPT and vector databases.
   - Architected DevOps pipelines, incorporating best practices to optimize application development and deployment.
