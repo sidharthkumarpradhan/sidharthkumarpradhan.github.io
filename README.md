@@ -48,7 +48,7 @@ Welcome to my portfolio! I am a seasoned MLOps professional with nearly 6 years 
 
 ### Skills
 
-- **Machine Learning:** MLflow, Kubeflow, TensorFlow, PyTorch, PySpark, H2O, Azure ML, AutoML, AWS Sagemaker, OpenCV, Keras, Mlflow
+- **Machine Learning:** MLflow, Kubeflow, TensorFlow, PyTorch, PySpark, H2O, Azure ML, AutoML, AWS Sagemaker, OpenCV, Keras, MLflow
 - **Data Engineering:** DataOps, ETL, Dagster, Airflow, Spark, Hadoop, Databricks, Data Factory, Synapse, Cosmos DB, Databricks,Dagster, Alteryx
 - **DevOps:** Kubernetes, Docker, Ansible, Terraform, Jenkins, CI/CD, Azure DevOps, AWS CodePipeline, Bash Scripting, PowerShell, GitOps, GCP Cloud Build
 - **Databases:** SQL, MS-SQL, MySQL, PostgreSQL, Cassandra, MongoDB, BigQuery, Snowflake, Data
