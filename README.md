@@ -1,7 +1,7 @@
-# FinTech/FinOps/MLOps/ML Engineer
+# FinTech | FinOps | MLOps | ML Engineer
 
 <p align="justify">
-Welcome to my portfolio! I am a seasoned MLOps professional with nearly 6 years of experience in the development and productionization of machine learning, deep learning, and generative AI solutions. Committed to innovation and impactful contributions in the AI field.
+Welcome to my portfolio! I am a FinTech/MLOps professional with nearly 6 years of experience at the intersection of <b>finance, business analytics, and applied machine learning</b>. I specialize in building scalable ML pipelines, deploying advanced deep learning and generative AI solutions, and leveraging financial data for forecasting, risk modeling, and decision optimization. With dual Master’s in <b>Business Analytics and Finance</b>, I bring a unique ability to bridge quantitative finance expertise with cutting-edge ML engineering, enabling data-driven strategies that deliver measurable business impact. Committed to innovation, efficiency, and impactful contributions across the AI and financial domains.
 </p>
 
 ### Work Experience
