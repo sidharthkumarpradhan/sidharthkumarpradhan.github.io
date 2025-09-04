@@ -1,4 +1,4 @@
-# MLOps/ML Engineer
+# FinTech/FinOps/MLOps/ML Engineer
 
 <p align="justify">
 Welcome to my portfolio! I am a seasoned MLOps professional with nearly 6 years of experience in the development and productionization of machine learning, deep learning, and generative AI solutions. Committed to innovation and impactful contributions in the AI field.
