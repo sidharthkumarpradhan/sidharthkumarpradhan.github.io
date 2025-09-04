@@ -6,258 +6,192 @@ Welcome to my portfolio! I am a seasoned MLOps professional with nearly 6 years 
 
 ### Work Experience
 
+#### Business Data Analyst Intern (06/2025 – Present)
+- **Company:** *Synchrony, Remote, Connecticut, United States*
+  - Perform analysis in Tableau and Power BI to surface actionable insights from large datasets.
+  - Build data connections to Oracle Data Warehouse and integrate multiple sources for reliable reporting.
+  - Design and optimize dashboards and KPI reports that support executive decision-making.
+  - Run predictive analytics to identify trends and forecast outcomes for planning.
+  - Develop data pipelines and DataOps processes for quality, availability, and governance.
+
+#### ITS Helpdesk Assistant - Student Employee (06/2025 – Present)
+- **Company:** *Fairfield University, Fairfield, Connecticut, United States*
+  - Debug applications and resolve incidents across university systems.
+  - Provide technical support to students, faculty, and staff using a ticketing system for prioritization.
+  - Coordinate with cross-functional teams to escalate and resolve complex issues.
+  - Offer on-call and in-person support to maintain operational continuity.
+
+#### Research Assistant, School of Engineering (02/2025 – Present)
+- **Advisor:** *Dr. Danushka S. Bandara, Fairfield University*
+  - Project: **Using Graph Convolutional Networks (GCNs) to Predict Student Performance and Enable Personalized Education**.
+  - Analyze the EdNet dataset of 131 million student interactions from an AI tutoring platform.
+  - Model relationships among students, content, and engagement behaviors to drive personalized learning.
+
 #### Senior ML/MLOps Consultant (10/2024 - 01/2025)
 - **Company:** *Accenture Baltics, Remote*
-  - Designed and developed GenAI applications leveraging the RAG (Retrieval-Augmented Generation) framework.
-  - Specialized in building causational analysis models using OpenAI GPT and vector databases.
-  - Architected DevOps pipelines, incorporating best practices to optimize application development and deployment.
-  - Successfully delivered multiple client and internal projects within a short timeframe, earning recognition and shoutouts for impactful contributions.
+  - Designed and developed RAG applications, vector search, and causational analysis workflows using GPT models.
+  - Built DevOps pipelines with best practices for reliable CI/CD across client and internal projects.
 
 #### Senior ML/MLOps Engineer (06/2024 - 10/2024)
 - **Company:** *EPAM Systems Inc., Hyderabad, India*
-  - Leading the team to design and develop Cloud agnostic ML Pipeline and deploy Deep Learning, LLMs Models.
-  - Built end-to-end ML pipeline for building and deploying Vision OCR Model with Augmented Reality capabilities using Diagflow NLP, Cloud Function, Big Query, Vertex AI, and ARCore. 
-  - Achieved the Vision OCR model with Augmented Reality overlay for solving customer issues Interactively, resulting 60% time saving and reducing 100 hours of monthly manual work.
+  - Led design of cloud-agnostic ML pipelines and deployment of DL and LLM models.
+  - Built end-to-end pipeline for Vision OCR with AR overlays using Dialogflow NLP, Cloud Functions, BigQuery, Vertex AI, and ARCore.
+  - Achieved interactive troubleshooting with approximately 60 percent time savings and about 100 hours monthly manual effort reduction.
 
 #### Senior ML/MLOps Consultant (10/2023 - 05/2024)
 - **Company:** *Firstsource, Hyderabad, India*
-  - Leading the design and deployment of cutting-edge ML systems on multi-cloud platforms.
-  - Showcasing expertise in innovative solutions and building robust ML pipelines.
-  - Utilizing Big Data technologies like Pyspark, BigQuery, and Snowflake for actionable insights.
+  - Led design and deployment of ML systems across multi-cloud.
+  - Built robust ML pipelines leveraging PySpark, BigQuery, and Snowflake for production insights.
 
 #### Senior MLOps Engineer (12/2021 - 10/2023)
 - **Company:** *Kroll, Hyderabad, India*
-  - Designed and executed end-to-end MLOps pipeline, accelerating project delivery by 40%.
-  - Optimized ML pipelines, reducing model training time by 50%.
-  - Implemented MLOps on multi-cloud and Kubernetes platforms, achieving 70% faster time-to-market.
-  - Introduced automated model monitoring and alerting system, reducing model errors by 30%.
+  - Implemented end-to-end MLOps pipelines and reduced time to deliver by approximately 40 percent.
+  - Optimized training pipelines with about 50 percent speedups and introduced automated monitoring and alerting.
 
 #### DevOps Engineer (05/2021 - 11/2021)
 - **Company:** *OSI Digital, Hyderabad, India*
-  - Customized solutions, reducing production delay by 70% and ensuring 95% on-time delivery.
-  - Designed and maintained cutting-edge MLOps infrastructure using Azure ML Services.
-  - Strengthened real-time monitoring and alerting systems, improving overall data reliability and accuracy.
-  - Implemented automated deployment pipelines, resulting in a 30% reduction in deployment errors.
+  - Built Azure ML backed infrastructure, real-time monitoring, and automated deployments with fewer errors.
 
 #### System Administrator (09/2019 - 04/2021)
 - **Company:** *PCS Global, Kolkata, India*
-  - Managed, troubleshot, and updated hardware and software assets, resulting in a 40% reduction in system downtime.
-  - Implemented preventive measures, ensuring 99% system availability.
-  - Automated patching and configuration processes, slashing deployment time by 50%.
-  - Introduced centralized logging and monitoring system, improving incident response time by 40%.
+  - Reduced system downtime by about 40 percent and improved incident response with centralized logging and automation.
 
 ### Skills
 
-- **Machine Learning:** MLflow, Kubeflow, TensorFlow, PyTorch, PySpark, H2O, Azure ML, AutoML, AWS Sagemaker, OpenCV, Keras, MLflow
-- **Data Engineering:** DataOps, ETL, Dagster, Airflow, Spark, Hadoop, Databricks, Data Factory, Synapse, Cosmos DB, Databricks,Dagster, Alteryx
-- **DevOps:** Kubernetes, Docker, Ansible, Terraform, Jenkins, CI/CD, Azure DevOps, AWS CodePipeline, Bash Scripting, PowerShell, GitOps, GCP Cloud Build
-- **Databases:** SQL, MS-SQL, MySQL, PostgreSQL, Cassandra, MongoDB, BigQuery, Snowflake, Data
-- **Programming Languages:** Python, C++, R, Java, HTML, CSS, JavaScript, YAML, JSON
-- **ML Models & Algorithms:** KNN, CNN, ANN, RNN, Linear Regression, Logistic Regression, Decision Trees, KMeans, DBScan, Random Forests, Naive Bayes, Gradient Boosting, SVM, NLP, Langchain, LLaMA, Mistral
+- **Machine Learning:** MLflow, Kubeflow, TensorFlow, PyTorch, PySpark, H2O, Azure ML, AutoML, AWS SageMaker, OpenCV, Keras
+- **Data Engineering:** DataOps, ETL, Dagster, Airflow, Spark, Hadoop, Databricks, Data Factory, Synapse, Cosmos DB, Alteryx
+- **DevOps:** Kubernetes, Docker, Ansible, Terraform, Jenkins, CI/CD, Azure DevOps, AWS CodePipeline, Bash, PowerShell, GitOps, GCP Cloud Build
+- **Databases:** SQL, MS-SQL, MySQL, PostgreSQL, Cassandra, MongoDB, BigQuery, Snowflake
+- **Programming:** Python, C++, R, Java, HTML, CSS, JavaScript, YAML, JSON
+- **Models and Algorithms:** KNN, CNN, ANN, RNN, Linear and Logistic Regression, Decision Trees, KMeans, DBSCAN, Random Forests, Naive Bayes, Gradient Boosting, SVM, NLP, LangChain, LLaMA, Mistral
 - **Deep Learning Frameworks:** TensorFlow, Keras, PyTorch, OpenCV
-- **Data Analysis & Visualization:** Numpy, Pandas, Scipy, Matplotlib, Seaborn, Plotly, Tableau, Power BI
-- **Cloud Platforms:** AWS, Azure, GCP, IBM Cloud, Digital Ocean, Linode, Oracle Cloud, Heroku
-- **Version Control:** Github, GitLab, SVN
-- **Operating Systems:** Ubuntu, Windows Server 2019, RedHat Linux, Fedora, Open Suse, Debian, CentOs
+- **Analytics and Visualization:** NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly, Tableau, Power BI
+- **Cloud:** AWS, Azure, GCP, IBM Cloud, Digital Ocean, Linode, Oracle Cloud, Heroku
+- **Version Control:** GitHub, GitLab, SVN
+- **Operating Systems:** Ubuntu, Windows Server 2019, RedHat, Fedora, openSUSE, Debian, CentOS
 
 ### Education
 
-- **Dual MS: MS In Business Analytics & MS In Finance (2025 - 2027)**
-  - Fairfield University, Connecticut, United State of America
-    
-- **Post Graduate Degree: Business & Data Analytics (2025)**
-  - Indian Institute of Management, Udaipur, India
-    
-- **M.Tech: Mechanical Engineering (2019)**
-  - Biju Patnaik University of Technology, Odisha, India
+- **Dual MS: MS in Business Analytics and MS in Finance (2025 - 2027)**  
+  Fairfield University, Connecticut, USA
 
-- **B.Tech: Mechanical Engineering (2016)**
-  - Centurion University of Technology and Management, Odisha, India
+- **Post Graduate Degree: Business and Data Analytics (2025)**  
+  Indian Institute of Management, Udaipur, India
 
+- **M.Tech: Mechanical Engineering (2019)**  
+  Biju Patnaik University of Technology, Odisha, India
 
-# [Projects](https://github.com/sidharthkumarpradhan)
+- **B.Tech: Mechanical Engineering (2016)**  
+  Centurion University of Technology and Management, Odisha, India
 
+### Certifications
+
+- LFCS: Linux Foundation Certified Systems Administrator
+- Cybersecurity Awareness: AI
+- Cybersecurity Awareness: Cybersecurity Terminology
+- Cybersecurity at Work
+- Business Data Management Professional (BDMP)
+- Business and Data Analytics
+- English Proficiency Certificate
+- Certified Kubernetes Security Specialist (CKS)
+- Certified Kubernetes Application Developer (CKAD)
+- CKA Certification Course - Certified Kubernetes Administrator
+- Certified Kubernetes Administrator (CKA)
+- GRE General Test
+- TestDome: Python
+- Microsoft Certified: Azure Fundamentals
+- Test of English as a Foreign Language
+- Applied Data Science II: Machine Learning and Statistical Analysis (with honors)
+- Certificate to Teach English as a Foreign Language (CTEFL)
+- Applied Data Science I: Scientific Computing and Python (with honors)
+- Data Science Professional Certificate
+- DevOps Beginners Course
+- Introduction to Service Management with ITIL 4
+- Google IT Support Professional Certificate
+- Ansible For Beginners
+- Containerization with Docker
+- IBM Data Science Professional Course: Tools For Data Science
+- IBM Data Science Professional Course: What is Data Science
+- Kubernetes for Absolute Beginners
+- Linux Bash Scripting
+- Linux System Administrator Basics
+- Version Control with Git
+
+# Projects
+
+## Fintech Projects
+
+- **AI Agentic Portfolio Manager**  
+  Deployed Streamlit app for multi-asset portfolio exploration and agent workflows. Focus on portfolio analytics and agentic automation for investment use cases.  
+  Link: https://aiagentportfoliomanager.streamlit.app/
+
+- **DOGE Real-time Analysis**  
+  Streamlit dashboard for real-time DOGE market analysis with live data integration and technical-indicator views for quick insights.  
+  Link: https://doge-realtime-analysis.streamlit.app/
+
+- **LEGO Theme Analyzer**  
+  Interactive exploration of LEGO themes and sets with topic and pattern discovery for consumer trend insights and storytelling.  
+  Link: https://lego-theme-analyzer.streamlit.app/
+
+- **Real-time Soccer Analytics**  
+  Live soccer metrics and visualizations with team and player analytics to support quick match insights and comparisons.  
+  Link: https://realtime-soccer-analytics.streamlit.app/
+
+- **Risk Analytics App**  
+  Risk visualization and stress-testing utilities to support scenario analysis and decision support for portfolios.  
+  Link: https://riskanalyticsapp.streamlit.app/
+
+> Note: These Fintech apps are subject capstone projects and received shoutouts for agentic automation in fintech.
 
 ## Machine Learning Projects
 
-
 ### 1. [Image Classification with Convolutional Neural Networks (CNN)](https://github.com/sidharthkumarpradhan/Image-Classification-with-Convolutional-Neural-Networks-CNN)
-
-- **Tools Used:** TensorFlow, Keras
-- **Description:**
-  - Implemented a CNN for image classification tasks using the CIFAR-10 dataset.
-  - **Challenges:**
-    - Handling limited labeled data and preventing overfitting.
-    - Fine-tuning hyperparameters for optimal performance.
-  - **Solutions:**
-    - Used data augmentation techniques to address limited data.
-    - Implemented regularization techniques and hyperparameter tuning.
-  - **Conclusion:**
-    - The CNN model achieved high accuracy in image classification, demonstrating its effectiveness.
+- **Tools:** TensorFlow, Keras  
+- Implemented a CNN for CIFAR-10 with augmentation, regularization, and tuned hyperparameters for strong accuracy.
 
 ### 2. [Natural Language Processing (NLP) - Sentiment Analysis](https://github.com/sidharthkumarpradhan/Natural-Language-Processing-NLP--Sentiment-Analysis)
-
-- **Tools Used:** PyTorch, NLTK
-- **Description:**
-  - Built a sentiment analysis model using deep learning for processing and analyzing text data.
-  - **Challenges:**
-    - Dealing with noisy and unstructured text data.
-    - Addressing class imbalance in sentiment labels.
-  - **Solutions:**
-    - Preprocessed text data with tokenization and stemming.
-    - Applied oversampling techniques to balance sentiment classes.
-  - **Conclusion:**
-    - The NLP model provided accurate sentiment analysis, enhancing text data understanding.
+- **Tools:** PyTorch, NLTK  
+- Built sentiment models with preprocessing, class balancing, and deep learning for accurate polarity detection.
 
 ### 3. [Recommender System using Collaborative Filtering](https://github.com/sidharthkumarpradhan/Recommender-System-using-Collaborative-Filtering)
-
-- **Tools Used:** Surprise, scikit-learn
-- **Description:**
-  - Developed a recommendation system based on collaborative filtering techniques.
-  - **Challenges:**
-    - Handling sparse user-item interaction matrices.
-    - Optimizing recommendations for real-time usage.
-  - **Solutions:**
-    - Applied matrix factorization for efficient handling of sparse matrices.
-    - Implemented caching mechanisms for real-time recommendation generation.
-  - **Conclusion:**
-    - The recommender system provided personalized suggestions, improving user experience.
+- **Tools:** Surprise, scikit-learn  
+- Matrix factorization with sparse user-item data and caching for responsive recommendations.
 
 ### 4. [Generative Adversarial Network (GAN) for Image Synthesis](https://github.com/sidharthkumarpradhan/Generative-Adversarial-Network-GAN-for-Image-Synthesis)
+- **Tools:** TensorFlow, Keras  
+- Stabilized training with spectral normalization and tuned diversity for realistic face generation.
 
-- **Tools Used:** TensorFlow, Keras
-- **Description:**
-  - Created a GAN model for generating realistic images, focusing on faces.
-  - **Challenges:**
-    - Training stable and high-quality GANs.
-    - Managing mode collapse and diverse image generation.
-  - **Solutions:**
-    - Employed techniques like spectral normalization for stable training.
-    - Fine-tuned hyperparameters to encourage diversity in generated images.
-  - **Conclusion:**
-    - The GAN model successfully generated realistic and diverse facial images.
-
-### 5. [Time Series Forecasting with Long Short-Term Memory (LSTM)](https://github.com/sidharthkumarpradhan/Time-Series-Forecasting-with-Long-Short-Term-Memory-LSTM)
-
-- **Tools Used:** PyTorch, TensorFlow
-- **Description:**
-  - Implemented an LSTM-based model for predicting time series data.
-  - **Challenges:**
-    - Capturing long-term dependencies in time series data.
-    - Handling varying trends and seasonality.
-  - **Solutions:**
-    - Utilized LSTM layers to capture long-term dependencies.
-    - Applied feature engineering techniques to handle trends and seasonality.
-  - **Conclusion:**
-    - The LSTM model provided accurate time series forecasting, valuable for various applications.
+### 5. [Time Series Forecasting with LSTM](https://github.com/sidharthkumarpradhan/Time-Series-Forecasting-with-Long-Short-Term-Memory-LSTM)
+- **Tools:** PyTorch, TensorFlow  
+- LSTM architecture with feature engineering for trend and seasonality, yielding accurate forecasts.
 
 ### 6. [Consumer Finances in USA](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/6-consumer-finances%20in-usa)
-
-- **Description:**
-  - Implemented a machine learning model to analyze and predict consumer spending patterns in the USA.
-- **Challenges:**
-  - Handling diverse financial data sources and formats.
-  - Addressing imbalances in labeled datasets for training.
-- **Solutions:**
-  - Developed data preprocessing pipelines for diverse data sources.
-  - Applied oversampling techniques to balance the dataset.
-- **Conclusion:**
-  - The model accurately predicted consumer spending patterns, aiding financial planning and decision-making.
+- Pipelines for diverse financial data and oversampling for balanced training to predict spending patterns.
 
 ### 7. [DS Admissions in WQU](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/7-ds-admissions-in-wqu)
-
-- **Description:**
-  - Created a predictive model for assessing admission probabilities based on various factors in a Data Science program.
-- **Challenges:**
-  - Limited labeled data for diverse admission scenarios.
-  - Ensuring model interpretability for admissions decisions.
-- **Solutions:**
-  - Augmented labeled data through synthetic data generation.
-  - Utilized interpretable machine learning algorithms.
-- **Conclusion:**
-  - The model provided valuable insights into admission criteria, aiding in the selection process.
+- Interpretable models and synthetic augmentation for admissions prediction and criteria insights.
 
 ### 8. [Volatility Forecasting in India](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/8-volatility-forecasting-in-india)
-
-- **Description:**
-  - Implemented time series analysis to forecast market volatility in the Indian financial market.
-- **Challenges:**
-  - Handling high-frequency financial data for accurate volatility predictions.
-  - Adapting to sudden market changes and external events.
-- **Solutions:**
-  - Applied advanced time series models and machine learning algorithms.
-  - Implemented adaptive models to quickly respond to market changes.
-- **Conclusion:**
-  - The forecasting model contributed to informed investment decisions in dynamic market conditions.
+- Advanced time series models with adaptive behavior to shifting market regimes for better decision support.
 
 ### 9. [Housing Price in Mexico](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/1-housing-in-mexico-015-assignment)
-
-- **Description:**
-  - Analyzed and predicted housing prices in Mexico using machine learning models.
-- **Challenges:**
-  - Dealing with incomplete and noisy real estate data.
-  - Enhancing model accuracy for diverse housing markets.
-- **Solutions:**
-  - Conducted extensive data cleaning and imputation.
-  - Employed ensemble learning techniques for improved accuracy.
-- **Conclusion:**
-  - The predictive model provided insights for real estate investment strategies in the Mexican market.
+- Real-estate price modeling with extensive data cleaning and ensemble methods.
 
 ### 10. [Housing Price in Buenos Aires](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/2-housing-in-buenos-aires)
-
-- **Description:**
-  - Developed a machine learning model to analyze and predict housing prices in Buenos Aires.
-- **Challenges:**
-  - Addressing cultural and economic factors influencing housing markets.
-  - Enhancing model interpretability for stakeholders.
-- **Solutions:**
-  - Incorporated cultural and economic features into the model.
-  - Used interpretable models and visualization techniques.
-- **Conclusion:**
-  - The model contributed to informed decision-making in the dynamic Buenos Aires real estate market.
+- Feature-rich models and interpretable visualizations for market understanding.
 
 ### 11. [Air Quality in Nairobi](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/3-air-quality-in-nairobi)
-
-- **Description:**
-  - Implemented a machine learning model to predict air quality in Nairobi based on various environmental factors.
-- **Challenges:**
-  - Handling missing data in environmental sensor readings.
-  - Ensuring real-time predictions for effective air quality monitoring.
-- **Solutions:**
-  - Applied data imputation techniques for missing sensor readings.
-  - Utilized streaming machine learning for real-time predictions.
-- **Conclusion:**
-  - The model facilitated proactive measures for managing air quality in Nairobi.
+- Imputation for sensor gaps and streaming predictions to support real-time monitoring.
 
 ### 12. [Earthquake Damage in Nepal](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/4-earthquake-damage-in-nepal)
-
-- **Description:**
-  - Developed a machine learning model to assess and predict earthquake damage in Nepal.
-- **Challenges:**
-  - Limited labeled data for earthquake damage scenarios.
-  - Incorporating geological features into the model.
-- **Solutions:**
-  - Applied transfer learning techniques from related domains.
-  - Included geological and structural features in the model.
-- **Conclusion:**
-  - The model provided valuable insights for earthquake preparedness and risk assessment in Nepal.
+- Transfer learning and geologic features for damage assessment and preparedness.
 
 ### 13. [Bankruptcy in Poland](https://github.com/sidharthkumarpradhan/wqu-applied-datascience-lab/tree/master/5-bankruptcy-in-poland)
-
-- **Description:**
-  - Analyzed and predicted bankruptcy risk for companies in Poland using machine learning.
-- **Challenges:**
-  - Handling imbalanced data for bankruptcy prediction.
-  - Ensuring model robustness in a changing economic landscape.
-- **Solutions:**
-  - Utilized ensemble learning and sampling techniques for imbalanced data.
-  - Implemented model retraining strategies for adaptability.
-- **Conclusion:**
-  - The model provided early warning indicators for financial risk in the Polish business landscape.
+- Imbalance-aware classification with retraining strategies to track economic change.
 
 ## Conclusion
 
-These machine learning projects showcase a diverse range of applications and challenges. The solutions implemented demonstrate the ability to address complex problems and provide valuable insights. For source code and more details, please visit the [GitHub Repository](https://github.com/sidharthkumarpradhan)
+These projects span production ML, agentic fintech apps, and applied analytics. For source code and more details, visit the [GitHub Repository](https://github.com/sidharthkumarpradhan).
 
 ### Let's Connect
 
