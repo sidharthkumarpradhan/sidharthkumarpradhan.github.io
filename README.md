@@ -13,9 +13,17 @@ Welcome to my portfolio! I am a FinTech/MLOps professional with nearly 6 years o
   - Design and optimize dashboards and KPI reports that support executive decision-making.
   - Run predictive analytics to identify trends and forecast outcomes for planning.
   - Develop data pipelines and DataOps processes for quality, availability, and governance.
+    
+#### Lucy Katz Fellow – Student Diversity and Multicultural Affairs (09/2025 – Present)
+- **Institution:** *Fairfield University, Fairfield, Connecticut, United States*  
+  - Selected as a **Lucy Katz Fellow** to strengthen diversity, equity, inclusion, and belonging initiatives on campus.  
+  - Facilitate dialogue sessions, civic reflections, and story circles to build authentic connections across diverse student groups.  
+  - Engage in care and restorative practices that promote mutual understanding and community well-being.  
+  - Collaborate with student organizations and faculty mentors to design multicultural programming and events.  
+  - Develop leadership skills through community-based learning and bridge-building activities aimed at fostering inclusive excellence.
 
 #### ITS Helpdesk Assistant - Student Employee (06/2025 – Present)
-- **Company:** *Fairfield University, Fairfield, Connecticut, United States*
+- **Institution:** *Fairfield University, Fairfield, Connecticut, United States*
   - Debug applications and resolve incidents across university systems.
   - Provide technical support to students, faculty, and staff using a ticketing system for prioritization.
   - Coordinate with cross-functional teams to escalate and resolve complex issues.
