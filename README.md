@@ -121,25 +121,25 @@ Welcome to my portfolio! I am a FinTech/MLOps professional with nearly 6 years o
 
 ## Fintech Projects
 
-- **AI Agentic Portfolio Manager**  
-  Deployed Streamlit app for multi-asset portfolio exploration and agent workflows. Focus on portfolio analytics and agentic automation for investment use cases.  
-  Link: https://aiagentportfoliomanager.streamlit.app/
+- ### 1. [AI Agentic Portfolio Manager](https://aiagentportfoliomanager.streamlit.app/)
+  - **Tools & Frameworks:** Python, Streamlit Cloud, OpenAI API, Agentic Frameworks, PostgreSQL  
+  - **Description:** Multi-asset portfolio exploration with agent workflows and analytics. Focus on allocation, performance attribution, and agentic automation for investment decisions.
 
-- **DOGE Real-time Analysis**  
-  Streamlit dashboard for real-time DOGE market analysis with live data integration and technical-indicator views for quick insights.  
-  Link: https://doge-realtime-analysis.streamlit.app/
+- ### 2. [DOGE Real-time Analysis](https://doge-realtime-analysis.streamlit.app/)
+  - **Tools & Frameworks:** Python, Streamlit Cloud, OpenAI API, SQLite, Plotly  
+  - **Description:** Real-time DOGE market analysis with live data integration, technical indicators, and rapid insights for trading research.
 
-- **LEGO Theme Analyzer**  
-  Interactive exploration of LEGO themes and sets with topic and pattern discovery for consumer trend insights and storytelling.  
-  Link: https://lego-theme-analyzer.streamlit.app/
+- ### 3. [LEGO Theme Analyzer](https://lego-theme-analyzer.streamlit.app/)
+  - **Tools & Frameworks:** Python, Streamlit Cloud, OpenAI API, Postgres, NLP-based Agentic Frameworks  
+  - **Description:** Interactive analysis of LEGO product themes and sets for trend discovery, storytelling, and consumer behavior insights usable in market analytics.
 
-- **Real-time Soccer Analytics**  
-  Live soccer metrics and visualizations with team and player analytics to support quick match insights and comparisons.  
-  Link: https://realtime-soccer-analytics.streamlit.app/
+- ### 4. [Real-time Soccer Analytics](https://realtime-soccer-analytics.streamlit.app/)
+  - **Tools & Frameworks:** Python, Streamlit Cloud, Anthropic API, Agentic AI Agents, SQLite  
+  - **Description:** Live match metrics, team and player comparisons, and dynamic visualizations to support data-driven sports analytics workflows.
 
-- **Risk Analytics App**  
-  Risk visualization and stress-testing utilities to support scenario analysis and decision support for portfolios.  
-  Link: https://riskanalyticsapp.streamlit.app/
+- ### 5. [Risk Analytics App](https://riskanalyticsapp.streamlit.app/)
+  - **Tools & Frameworks:** Python, Streamlit Cloud, OpenAI API, Agentic Frameworks, PostgreSQL  
+  - **Description:** Portfolio risk visualization, scenario analysis, and stress testing utilities for decision support and risk management research.
 
 > Note: These Fintech apps are subject capstone projects and received shoutouts for agentic automation in fintech.
 
